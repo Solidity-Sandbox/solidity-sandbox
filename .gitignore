@@ -1,0 +1,11 @@
+*/__pycache__
+*/.env
+*/.history
+*/.hypothesis/
+*/build/
+*/reports/
+
+*/brownie-config.yaml
+aave_brownie_py_freecode-main
+nft-demo-main
+HelloWorld.py
